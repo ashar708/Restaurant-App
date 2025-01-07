@@ -1,5 +1,13 @@
 # Getting Started with Create React App
 
+This app is a mobile responsive app and have reusable react components using the FIGMA Design-
+
+
+![image](https://github.com/user-attachments/assets/6bebe4a3-5336-4300-944a-8c610ec0ff7d)
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
