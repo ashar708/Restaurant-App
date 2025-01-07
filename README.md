@@ -3,7 +3,8 @@
 This app is a mobile responsive app and have reusable react components using the FIGMA Design-
 
 
-![image](https://github.com/user-attachments/assets/6bebe4a3-5336-4300-944a-8c610ec0ff7d)
+![image](https://github.com/user-attachments/assets/cafadd0d-03e7-437a-bb83-7b1fabcac9a2)
+
 
 
 
